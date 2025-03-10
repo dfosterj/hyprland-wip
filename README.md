@@ -3,5 +3,6 @@
 ## dependencies
 swww
 swaylock
-nwg-drawer
 nwg-bar
+wofi
+waybar or hyprpanel
